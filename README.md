@@ -10,3 +10,6 @@ The Repo has 3 Parts :
 You can See The Code is Explained Well In Comments and What You need To Solve Every Problem 
 
 This Repo Always Will Be Open For Updates 
+
+# This Repo is under Maintainence 
+### we will discuss about the time complexity and space complexity 
