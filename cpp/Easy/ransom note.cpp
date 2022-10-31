@@ -1,4 +1,4 @@
-// Problem Link : https://leetcode.com/problems/ransom-note/
+// Problem Link : https://www.leetcode.com/problems/ransom-note/
 // Problem Hint : hash table 
 // Done : sunday 4:27 23/10/2022 
 // Author : Atef Yasser Wasef 
